@@ -1,0 +1,12 @@
+random
+re
+time
+difflib
+json
+requests
+os
+translate
+json
+io
+pygame
+sys
