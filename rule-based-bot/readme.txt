@@ -68,6 +68,3 @@ Bot Functionality:
 12. "age",
     "lifetime",
     "oldness" == shows your current age
-
-All in all, we have 12 functions in this bot.
-Stay Updated, the version 2.0 gonna release soon.
